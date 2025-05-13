@@ -32,10 +32,3 @@ section {
     background-color: #121212;
     color: #f1f1f1;
 }
-.profile-photo {
-    width: 150px;  /* Adjust width */
-    height: 150px; /* Adjust height */
-    border-radius: 50%; /* To make it circular */
-    border: 2px solid #ccc; /* Optional: Adds a border */
-    margin-bottom: 10px; /* Optional: Adds some space below the image */
-}
